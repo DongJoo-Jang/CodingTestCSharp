@@ -1,0 +1,14 @@
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\bin\Debug\netcoreapp3.1\CodingTestCSharp.exe
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\bin\Debug\netcoreapp3.1\CodingTestCSharp.deps.json
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\bin\Debug\netcoreapp3.1\CodingTestCSharp.runtimeconfig.json
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\bin\Debug\netcoreapp3.1\CodingTestCSharp.runtimeconfig.dev.json
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\bin\Debug\netcoreapp3.1\CodingTestCSharp.dll
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\bin\Debug\netcoreapp3.1\CodingTestCSharp.pdb
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.csproj.AssemblyReference.cache
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.AssemblyInfoInputs.cache
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.AssemblyInfo.cs
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.csproj.CoreCompileInputs.cache
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.dll
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.pdb
+D:\Git\CodingTestCSharp\CodingTestCSharp\CodingTestCSharp\obj\Debug\netcoreapp3.1\CodingTestCSharp.genruntimeconfig.cache
