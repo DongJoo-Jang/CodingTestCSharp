@@ -4,13 +4,13 @@ namespace CSharpCodingTest
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            string[] survey = { "AN", "CF", "MJ", "RT", "NA" };
-            int[] choices = { 5, 3, 2, 7, 5 };
+        //static void Main(string[] args)
+        //{
+        //    string[] survey = { "AN", "CF", "MJ", "RT", "NA" };
+        //    int[] choices = { 5, 3, 2, 7, 5 };
 
-            Console.WriteLine(solution(survey,choices));
-        }
+        //    Console.WriteLine(solution(survey,choices));
+        //}
 
 
 
